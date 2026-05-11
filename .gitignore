@@ -29,8 +29,6 @@ dist-ssr
 package.json.bak
 
 # env files
-.env
-.env.*
 
 # extension
 .output
@@ -40,3 +38,4 @@ package.json.bak
 .claude
 .cursor
 .gemini
+config.bat
